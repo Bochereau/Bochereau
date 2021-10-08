@@ -23,6 +23,7 @@ Je suis motivé à l'idée de continuer à developper mes capacités ainsi que m
 
 ### Me contacter
 &#128231; antbochereau@gmail.com
+&#128222; 06.78.37.04.72
 
 <!--
 **Bochereau/Bochereau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
