@@ -1,6 +1,7 @@
-### Hi there 👋
-
 ![Cover](https://github.com/Bochereau/Bochereau/blob/master/img/cover.jpg)
+
+Hi, I'm Antoine 
+
 
 <!--
 **Bochereau/Bochereau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
