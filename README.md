@@ -13,7 +13,7 @@ Enfin je me suis lancé dans divers projets personnels : <br/> - mon Portfolio e
 
 ### Mes compétences
 &#128065; Capacité d'analyse <br/>
-&#128073; Calme <br/>
+&#127888; Calme <br/>
 &#128073; Organisé <br/>
 &#128073; Humilité <br/>
 &#128172; Prise de recul <br/>
