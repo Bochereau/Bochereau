@@ -1,4 +1,4 @@
-![Cover](https://github.com/Bochereau/Bochereau/blob/master/img/cover.jpg)
+# Antoine Bochereau
 
 Hi, I'm Antoine 
 
@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Cover](https://github.com/Bochereau/Bochereau/blob/master/img/cover.jpg)
 -->
