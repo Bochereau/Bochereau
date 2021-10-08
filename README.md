@@ -24,7 +24,7 @@ Je suis motivé à l'idée de continuer à developper mes capacités ainsi que m
 ### Me contacter
 &#128231; antbochereau@gmail.com <br/>
 &#128222; 06.78.37.04.72 <br/>
-&#128279; [LinkedIn](https://www.linkedin.com/in/antoinebochereau/)
+&#128279; [mon profil LinkedIn](https://www.linkedin.com/in/antoinebochereau/)
 
 <!--
 **Bochereau/Bochereau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
