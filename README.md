@@ -19,7 +19,7 @@ Enfin je me suis lancé dans divers projets personnels : <br/> - mon Portfolio e
 &#128073; Prise de recul <br/>
 
 ### Mes méthodes de travail
-Je suis motivé à l'idée de continuer à developper mes capacités ainsi que mes connaissances dans le domaine du developpement web. <br/> J'aime que les projets dans lesquels je m'implique puissent répondre au mieux à l'attente du client ainsi qu'à un maximum d'utilisateurs. &#128077; <br/> J'apprécie autant le travail en autonomie qu'en équipe, le partage étant au coeur de notre métier. &#129309;
+Je suis motivé à l'idée de continuer à developper mes capacités ainsi que mes connaissances dans le domaine du developpement web. &#10084; <br/> J'aime que les projets dans lesquels je m'implique puissent répondre au mieux à l'attente du client ainsi qu'à un maximum d'utilisateurs. &#128077; <br/> J'apprécie autant le travail en autonomie qu'en équipe, le partage étant au coeur de notre métier. &#129309;
 
 ### Me contacter
 
