@@ -1,7 +1,7 @@
 # Antoine Bochereau
 
 Bonjour, je m'appelle Antoine et je suis developpeur fullstack Javascript.
-<br/>
+br
 Je travaille actuellement sur un projet de gestion de collection de jeux video &#x1F609;
 
 
