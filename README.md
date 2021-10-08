@@ -9,14 +9,13 @@ Je me suis formé auprès de l'école O'clock (https://oclock.io/formations/deve
 <br/><br/>
 A la suite de cette formation j'ai passé la certification Opquast. <br/> Opquast établi un référentiel de bonnes pratiques qualité particulièrement adaptées pour l’évaluation d’un site web. <br/> J'ai obtenu un score de 880/1000 points lors de l'évaluation finale.
 <br/><br/>
-Enfin je me suis lancé dans divers projets personnels : <br/> - mon Portfolio en ligne &#8594; https://monilum.com/antoine/ <br/> - un site de gestion de collection de jeux video 
+Enfin je me suis lancé dans divers projets personnels : <br/> &#128073; mon Portfolio en ligne &#8594; https://monilum.com/antoine/ <br/> &#128073; un site de gestion de collection de jeux video 
 
 ### Mes compétences
 &#128065; Capacité d'analyse <br/>
 &#129496; Calme <br/>
-
 &#128073; Organisé <br/>
-&#128073; Humilité <br/>
+&#129309; Humble <br/>
 &#128172; Prise de recul <br/>
 
 ### Mes méthodes de travail
