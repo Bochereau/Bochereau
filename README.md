@@ -22,9 +22,9 @@ Enfin je me suis lancé dans divers projets personnels : <br/> &#128073; mon Por
 Je suis motivé à l'idée de continuer à developper mes capacités ainsi que mes connaissances dans le domaine du developpement web. &#10084; <br/> J'aime que les projets dans lesquels je m'implique puissent répondre au mieux à l'attente du client ainsi qu'à un maximum d'utilisateurs. &#128077; <br/> J'apprécie autant le travail en autonomie qu'en équipe, le partage étant au coeur de notre métier. &#129309;
 
 ### Me contacter
-&#128231; antbochereau@gmail.com
-
-&#128222; 06.78.37.04.72
+&#128231; antbochereau@gmail.com <br/>
+&#128222; 06.78.37.04.72 <br/>
+&#128279; https://www.linkedin.com/in/antoinebochereau/
 
 <!--
 **Bochereau/Bochereau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
