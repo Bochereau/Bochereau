@@ -9,7 +9,10 @@ Je me suis formé auprès de l'école O'clock (https://oclock.io/formations/deve
 <br/>
 A la fin de cette formation j'ai eu l'occasion de travailler sur un projet de gestion de luminaires connectés.
 <br/>
+<br/>
 Monilum -> https://monilum.com/
+<br/>
+<br/>
 Je travaille actuellement sur un projet de gestion de collection de jeux video
 
 
