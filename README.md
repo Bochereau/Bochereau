@@ -5,11 +5,11 @@
 ### Mon parcours
 Après avoir travailler 8 ans dans le domaine sportif en tant que Maître Nageur Sauveteur, j'ai eu envie de changement. <br/> Je me suis alors rapprocher de mon domaine de prédilection (le numérique et les nouvelles technologies). <br/> Mon parcours me rend atypique et m'a permis de développer des compétences diverses.
 <br/><br/>
-Je me suis formé auprès de l'école [O'clock](https://oclock.io/formations/developpeur-web) et je me suis spécialisé sur React. <br/> A la fin de cette formation j'ai eu l'occasion de travailler en équipe sur un projet de gestion de luminaires connectés. <br/> Monilum &#8594; https://monilum.com/ <br/> Ce projet a été très formateur et m'a permis de prendre confiance dans mes capacités de développeur.
+Je me suis formé auprès de l'école [O'clock](https://oclock.io/formations/developpeur-web) et je me suis spécialisé sur React. <br/> A la fin de cette formation j'ai eu l'occasion de travailler en équipe sur un projet de gestion de luminaires connectés  &#8594; [Monilum](https://monilum.com/) <br/> Ce projet a été très formateur et m'a permis de prendre confiance dans mes capacités de développeur.
 <br/><br/>
 A la suite de cette formation j'ai passé la certification Opquast. <br/> Opquast établi un référentiel de bonnes pratiques qualité particulièrement adaptées pour l’évaluation d’un site web. <br/> J'ai obtenu un score de 880/1000 points lors de l'évaluation finale.
 <br/><br/>
-Enfin je me suis lancé dans divers projets personnels : <br/> &#128073; mon Portfolio en ligne &#8594; https://monilum.com/antoine/ <br/> &#128073; un site de gestion de collection de jeux video 
+Enfin je me suis lancé dans divers projets personnels : <br/> &#128073; mon [Portfolio en ligne](https://monilum.com/antoine/) <br/> &#128073; un site de gestion de collection de jeux video 
 
 ### Mes compétences
 &#128065; Capacité d'analyse <br/>
