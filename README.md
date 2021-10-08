@@ -12,11 +12,11 @@ A la suite de cette formation j'ai passé la certification Opquast. <br/> Opquas
 Enfin je me suis lancé dans divers projets personnels : <br/> - mon Portfolio en ligne &#8594; https://monilum.com/antoine/ <br/> - un site de gestion de collection de jeux video 
 
 ### Mes compétences
-&#128073; Capacité d'analyse <br/>
+&#128065; Capacité d'analyse <br/>
 &#128073; Calme <br/>
 &#128073; Organisé <br/>
 &#128073; Humilité <br/>
-&#128073; Prise de recul <br/>
+&#128172; Prise de recul <br/>
 
 ### Mes méthodes de travail
 Je suis motivé à l'idée de continuer à developper mes capacités ainsi que mes connaissances dans le domaine du developpement web. &#10084; <br/> J'aime que les projets dans lesquels je m'implique puissent répondre au mieux à l'attente du client ainsi qu'à un maximum d'utilisateurs. &#128077; <br/> J'apprécie autant le travail en autonomie qu'en équipe, le partage étant au coeur de notre métier. &#129309;
