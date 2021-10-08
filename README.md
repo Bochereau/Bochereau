@@ -14,7 +14,7 @@ Enfin je me suis lancé dans divers projets personnels : <br/> &#128073; mon Por
 ### Mes compétences
 &#128065; Capacité d'analyse <br/>
 &#129496; Calme <br/>
-&#128073; Organisé <br/>
+&#128467; Organisé <br/>
 &#129309; Humble <br/>
 &#128172; Prise de recul <br/>
 
