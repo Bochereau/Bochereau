@@ -11,6 +11,12 @@ A la suite de cette formation j'ai passé la certification Opquast. <br/> Opquas
 <br/><br/>
 Enfin je me suis lancé dans divers projets personnels : <br/> - mon Portfolio en ligne &#8594; https://monilum.com/antoine/ <br/> - un site de gestion de collection de jeux video 
 
+## Mes compétences
+&#128073; Capacité d'analyse
+&#128073; Calme
+&#128073; Organisé
+&#128073; Humilité
+&#128073; Prise de recul
 
 
 <!--
