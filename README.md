@@ -1,6 +1,6 @@
 # Antoine Bochereau
 
-Bonjour, je m'appelle Antoine et je suis developpeur fullstack Javascript.
+&#128075; Bonjour, je m'appelle Antoine et je suis developpeur fullstack Javascript.
 
 ### Mon parcours
 Après avoir travailler 8 ans dans le domaine sportif en tant que Maître Nageur Sauveteur, j'ai eu envie de changement. <br/> Je me suis alors rapprocher de mon domaine de prédilection (le numérique et les nouvelles technologies). <br/> Mon parcours me rend atypique et m'a permis de développer des compétences diverses.
@@ -19,7 +19,7 @@ Enfin je me suis lancé dans divers projets personnels : <br/> - mon Portfolio e
 &#128073; Prise de recul <br/>
 
 ### Mes méthodes de travail
-Je suis motivé à l'idée de continuer à developper mes capacités ainsi que mes connaissances dans le domaine du developpement web. <br/> J'aime que les projets dans lesquels je m'implique puissent répondre au mieux à l'attente du client ainsi qu'à un maximum d'utilisateurs. <br/> J'apprécie autant le travail en autonomie qu'en équipe, le partage étant au coeur de notre métier.
+Je suis motivé à l'idée de continuer à developper mes capacités ainsi que mes connaissances dans le domaine du developpement web. <br/> J'aime que les projets dans lesquels je m'implique puissent répondre au mieux à l'attente du client ainsi qu'à un maximum d'utilisateurs. &#128077; <br/> J'apprécie autant le travail en autonomie qu'en équipe, le partage étant au coeur de notre métier. &#129309;
 
 ### Me contacter
 
