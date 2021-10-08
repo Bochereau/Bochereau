@@ -9,7 +9,7 @@ Je me suis formé auprès de l'école O'clock (https://oclock.io/formations/deve
 <br/><br/>
 A la suite de cette formation j'ai développé mon Portfolio en ligne &#8594; https://monilum.com/antoine/
 <br/><br/>
-Je travaille actuellement sur un projet de gestion de collection de jeux video
+Puis j'ai eu envie de développé un site de gestion de collection de jeux video 
 
 
 
